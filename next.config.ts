@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // https://apod.nasa.gov adding to dallows domains
+  images: {
+    domains: ["apod.nasa.gov"],
+  },
 };
 
 export default nextConfig;
