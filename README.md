@@ -34,7 +34,7 @@ A full-text search application for NASA's Astronomy Picture of the Day (APOD) ar
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hamidfarmani/nasa-full-text-search.git
    cd nasa-full-text-search
    ```
 
